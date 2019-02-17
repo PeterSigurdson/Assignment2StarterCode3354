@@ -3,7 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 
 class Program
-{
+    
+    // Assignment 2 Starter Code
+
     static void Main() {
         new ClassSchedule().Run();
     }
