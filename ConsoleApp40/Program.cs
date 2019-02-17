@@ -5,6 +5,7 @@ using System.Collections.Generic;
 class Program
     
     // Assignment 2 Starter Code
+    // CSD3354 2019W
 
     static void Main() {
         new ClassSchedule().Run();
